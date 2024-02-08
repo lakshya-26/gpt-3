@@ -16,5 +16,6 @@ This project is a landing page for GPT-3, built with React.js and based on a des
 - Built with React.js for efficient, component-based development.
 - Showcases the capabilities of GPT-3.
 
+## Netlify
 
-
+The site is live "https://gpt-3-fig.netlify.app/"
